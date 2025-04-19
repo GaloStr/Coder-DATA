@@ -1,3 +1,3 @@
 ### 📊 Vista previa del dashboard
 
-![Dashboard Power BI](sample.png)
+![Dashboard Power BI](./sample.png)
